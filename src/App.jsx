@@ -19,25 +19,25 @@ const services = [
     icon: "mobile",
     title: "Mobile Repair",
     text: "Screen, battery, charging port & software issues.",
-    price: "From ₹299",
+    price: "Request a quote",
   },
   {
     icon: "laptop",
     title: "Laptop Repair",
     text: "Hardware, software, cleaning & performance issues.",
-    price: "From ₹499",
+    price: "Request a quote",
   },
   {
     icon: "tablet",
     title: "Tablet Repair",
     text: "Display, battery, charging & performance repairs.",
-    price: "From ₹399",
+    price: "Request a quote",
   },
   {
     icon: "tv",
     title: "TV Repair",
     text: "Display, sound, power & connectivity problems.",
-    price: "From ₹599",
+    price: "Request a quote",
   },
 ];
 
@@ -1516,7 +1516,7 @@ function Website() {
           <div className="hero-content">
             <div className="eyebrow">
               <span className="eyebrow-dot">✦</span>
-              FAST <b>•</b> RELIABLE <b>•</b> TRUSTED
+              DEVICE REPAIR <b>•</b> SIMPLE BOOKING <b>•</b> CLEAR PROCESS
             </div>
 
             <h1>
@@ -1528,9 +1528,8 @@ function Website() {
             </h1>
 
             <p className="hero-copy">
-              Professional repair services for your mobile,
-              laptop, tablet and more. Quick, affordable and
-              hassle-free.
+              Repair services for your mobile, laptop, tablet and more.
+              Submit a request and we’ll review the issue with you.
             </p>
 
             <div className="hero-actions">
@@ -1551,20 +1550,20 @@ function Website() {
 
             <div className="metrics">
               <div className="metric">
-                <strong>2,500+</strong>
-                <span>Devices Repaired</span>
+                <strong>Multiple</strong>
+                <span>Device Types</span>
               </div>
 
               <div className="metric">
                 <strong>
-                  4.9 <small>★</small>
+                  Easy <small>★</small>
                 </strong>
-                <span>Customer Rating</span>
+                <span>Online Booking</span>
               </div>
 
               <div className="metric">
-                <strong>30 Days</strong>
-                <span>Warranty</span>
+                <strong>Clear</strong>
+                <span>Service Process</span>
               </div>
             </div>
           </div>
@@ -1630,7 +1629,7 @@ function Website() {
             <h2>What can we fix for you?</h2>
 
             <p>
-              Reliable repairs for the devices you use
+              Repair options for the devices you use
               every day.
             </p>
           </div>
@@ -1744,49 +1743,49 @@ function Website() {
             <span>WHY CHOOSE US</span>
 
             <h2>
-              Quality repairs
+              Straightforward repairs
               <br />
-              you can trust.
+              with clear communication.
             </h2>
 
             <p>
               Your devices deserve a second chance. We
-              focus on honest service, quality repairs and
-              a smooth customer experience.
+              focus on clear communication and a simple
+              repair-request process.
             </p>
 
             <div className="why-grid">
               <div>
                 <strong>
-                  ✓ Certified Technicians
+                  ✓ Service Experience
                 </strong>
 
                 <span>
-                  Trained experts with experience.
+                  Repair details are reviewed before work begins.
                 </span>
               </div>
 
               <div>
-                <strong>✓ Genuine Parts</strong>
+                <strong>✓ Parts Options</strong>
 
                 <span>
-                  Quality parts for every repair.
+                  Available parts options can be discussed for your repair.
                 </span>
               </div>
 
               <div>
-                <strong>✓ Quick Turnaround</strong>
+                <strong>✓ Service Updates</strong>
 
                 <span>
-                  Fast and convenient service.
+                  We’ll contact you about the next steps.
                 </span>
               </div>
 
               <div>
-                <strong>✓ Warranty Included</strong>
+                <strong>✓ Warranty Terms</strong>
 
                 <span>
-                  30 days warranty on repairs.
+                  Warranty availability and terms depend on the repair.
                 </span>
               </div>
             </div>
